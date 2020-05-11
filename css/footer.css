@@ -1,0 +1,49 @@
+.site-footer{
+	background-color: #fff;
+	padding-top: 60px;
+	padding-bottom: 45px;
+}
+.footer-img img{
+	margin-bottom: 15px;
+}
+.block-170 ul{
+	margin: 0;
+}
+.block-170 li{
+	margin-bottom: 15px;
+}
+.block-170 a{
+	text-decoration: none;
+	color: #424d57;
+	display: inline-block;
+}
+.block-170 a:hover{
+	color: #ff7013;
+}
+.block-170 .payment{
+	font-size: 16px;
+	color: #ff7013;
+	font-weight: 600;
+	margin: 20px 0;
+}
+.block-170 .payment-img{
+	width: 25px;
+	height: 17px;
+	display: inline-block;
+	background-image: url(../img/payment.png);
+}
+.amex{
+	background-position: -1px -1px;
+}
+.second-paymet{
+	background-position: -36px -1px;
+}
+.visa{
+	background-position: -72px -1px;
+}
+.fourth-paymet{
+	background-position: -108px -1px;
+}
+.fifth-paymet{
+	background-position: -144px -1px;
+}

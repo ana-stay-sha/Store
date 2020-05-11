@@ -1,0 +1,71 @@
+.site-header{
+	min-height: 180px;
+	background: #fff;
+	border-bottom: 1px solid #edeff1;
+}
+.header-line{
+	border-bottom: 1px solid #edeff1;
+}
+.header-line .block-570{
+	min-height: 60px;
+	border: none;
+}
+.header-line ul{
+	padding: 0;
+}
+.header-line li{
+	display: inline-block;
+	list-style: none;
+	font-size: 12px;
+	margin-right: 10px;
+}
+.header-line ul li img{
+	margin: 0 10px 0 0;
+}
+.header-social img{
+	margin: 20px 0 0 20px;
+}
+.header-logo-img{
+	margin-top: 30px;
+}
+.header-nav li{
+	list-style: none;
+	font-size: 16px;
+	float: left;
+	margin: 27px 15px;
+} 
+.header-nav a:hover{
+	color: #ff7013;
+}
+.header-nav .active{
+	color: #ff7013;
+}
+.user-icons{
+	margin-top: 40px;
+}
+.user-icons img{
+	margin-left: 15px;
+}
+.user-icons img:hover{
+	color: #ff7013;
+}
+.cart{
+	position: relative;
+}
+.user-icons .cart-count{
+	display: block;
+	width: 18px;
+	height: 18px;
+	border-radius: 100%;
+	background-color: #34404b;
+	position: absolute;
+	top: -21px;
+	left: 18px;
+	color: #fff;
+}
+.user-icons .cart-count span{
+	position: relative;
+	left: -5px;
+	top: -2px;
+	font-size: 12px;
+}
